@@ -519,7 +519,7 @@ function hello() {
 }
 /* harmony default export */ const hello_world = (hello);
 ;// CONCATENATED MODULE: ./src/assets/image.png
-const image_namespaceObject = __webpack_require__.p + "images/a1af828b4e65d37668e1.png";
+const image_namespaceObject = __webpack_require__.p + "images/0f04638959d08a7936ca.png";
 ;// CONCATENATED MODULE: ./src/component/header/header.js
 
 const header_element = document.createElement("header");
@@ -607,7 +607,7 @@ function component() {
 
 document.body.appendChild(component());
 ;// CONCATENATED MODULE: ./src/assets/city.png
-const city_namespaceObject = __webpack_require__.p + "images/81ca643aa6b9df06c005.png";
+const city_namespaceObject = __webpack_require__.p + "images/834b82310caf30815b32.png";
 ;// CONCATENATED MODULE: ./src/index.js
 
 hello_world();
